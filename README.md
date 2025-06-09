@@ -20,8 +20,6 @@ The exploratory data analysis phase involves understanding the dataset, identify
 
 These visualizations provide insights into the data distribution, potential outliers, and relationships that can be used for feature engineering and model selection.
 
-# prompt: provide me description of Readme file content for Feature engineering part only. 
-
 This section focuses on creating new features and preparing the data for modeling.
 
 1.  **Time-based Features:**
